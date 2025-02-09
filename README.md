@@ -27,18 +27,7 @@ The app fetches quiz data from:
    git clone <your-repository-url>
    cd quiz-app
 
-📂 Project Structure
-   📦 quiz-app
- ┣ 📂 src
- ┃ ┣ 📜 App.js
- ┃ ┣ 📜 components
- ┃ ┃ ┣ 📜 Question.js
- ┃ ┃ ┣ 📜 Timer.js
- ┃ ┣ 📜 index.js
- ┣ 📜 public
- ┃ ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 README.md
+
 
 Screenshots
 
