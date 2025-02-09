@@ -34,8 +34,6 @@ Screenshots
 Light Mode
 ![alt text](<Screenshot 2025-02-10 000541.png>)
 
-![alt text](<Screenshot 2025-02-10 000526.png>)
-
 
 Dark Mode
 ![alt text](<Screenshot 2025-02-10 000503.png>)
