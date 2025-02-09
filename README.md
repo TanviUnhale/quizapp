@@ -58,7 +58,7 @@ Quiz in Action
 ![alt text](<Screenshot 2025-02-10 000441.png>)
 
 ## 🎥 Demo Video  
-[![Quiz Demo](![alt text](<Screenshot 2025-02-10 000541.png>)
+[![Quiz Demo])
 )](https://drive.google.com/file/d/1RK42rlxH7gdPGmh116tkCewFtZL66iyO/view?usp=sharing)
 
 
