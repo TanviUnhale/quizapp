@@ -29,7 +29,8 @@ The app fetches quiz data from:
 
 
 
-Screenshots
+Screenshots:
+
 Light Mode
 
 
