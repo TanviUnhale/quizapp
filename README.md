@@ -30,8 +30,9 @@ The app fetches quiz data from:
 
 
 Screenshots
-
 Light Mode
+
+
 ![alt text](<Screenshot 2025-02-10 000541.png>)
 
 
